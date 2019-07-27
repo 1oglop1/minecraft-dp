@@ -1,1 +1,1 @@
-title @s actionbar [{"score":{"name":"@s","objective":"itm.output"}}, {"text":" Warning low durability of elytra/armor!","color":"red", "bold":true}]
+title @s actionbar [{"score":{"name":"@s","objective":"itm.output"}}, {"text":" Warning low durability of elytra/armour!","color":"red", "bold":true}]
